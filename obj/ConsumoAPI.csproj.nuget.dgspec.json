@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\estudo\\ConsumoAPI\\ConsumoAPI.csproj": {}
+    "C:\\estudo\\Balta\\dotnet\\consumoapi-csharp\\ConsumoAPI.csproj": {}
   },
   "projects": {
-    "C:\\estudo\\ConsumoAPI\\ConsumoAPI.csproj": {
+    "C:\\estudo\\Balta\\dotnet\\consumoapi-csharp\\ConsumoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\estudo\\ConsumoAPI\\ConsumoAPI.csproj",
+        "projectUniqueName": "C:\\estudo\\Balta\\dotnet\\consumoapi-csharp\\ConsumoAPI.csproj",
         "projectName": "ConsumoAPI",
-        "projectPath": "C:\\estudo\\ConsumoAPI\\ConsumoAPI.csproj",
-        "packagesPath": "C:\\Users\\MICRO03\\.nuget\\packages\\",
-        "outputPath": "C:\\estudo\\ConsumoAPI\\obj\\",
+        "projectPath": "C:\\estudo\\Balta\\dotnet\\consumoapi-csharp\\ConsumoAPI.csproj",
+        "packagesPath": "C:\\Users\\magju\\.nuget\\packages\\",
+        "outputPath": "C:\\estudo\\Balta\\dotnet\\consumoapi-csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MICRO03\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\magju\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
